@@ -1,0 +1,12 @@
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.csprojAssemblyReference.cache
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.Properties.Resources.resources
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.csproj.GenerateResource.cache
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\bin\Debug\BookStorage.exe.config
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\bin\Debug\BookStorage.exe
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\bin\Debug\BookStorage.pdb
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.exe
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.pdb
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.Views.AutorisationForm.resources
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.Views.MainForm.resources
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.Views.AdminForm.resources
+C:\Users\AYDALV\source\repos\BookStorage\BookStorage\obj\Debug\BookStorage.Views.BookFormEditor.resources
